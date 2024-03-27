@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "067d",
+      "name": "Balaguru S",
+      "email": "balagurusiva2002@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "7521",
+      "name": "Balaguru S",
+      "email": "balagurusiva2002@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "2c3b",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "126e",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "bd11",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "fa18",
+      "name": "Balaguru S",
+      "email": "balagurusiva2002@gmail.com",
+      "password": "asdf"
+    },
+    {
+      "id": "c93a",
+      "name": "Balaguru S",
+      "email": "balagurusiva2002@gmail.com",
+      "password": "asdf"
+    }
+  ],
+  "restaurant" : [
+  {
+    "restaurant_name": "Italiano Delight",
+    "food_name": "Margherita Pizza",
+    "location": "123 Main Street, Cityville"
+  },
+  {
+    "restaurant_name": "Sushi Heaven",
+    "food_name": "Spicy Tuna Roll",
+    "location": "456 Oak Avenue, Townsville"
+  },
+  {
+    "restaurant_name": "Tex Mex Grill",
+    "food_name": "Fajitas",
+    "location": "789 Elm Road, Villageland"
+  },
+  {
+    "restaurant_name": "Burger Palace",
+    "food_name": "Classic Cheeseburger",
+    "location": "321 Maple Lane, Hamlet City"
+  }
+]
+
+}
